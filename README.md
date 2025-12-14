@@ -18,5 +18,5 @@ This Business Intelligence project analyzes customer attrition patterns for a re
 * **Visualizations:** Utilized Decomposition Trees for root cause analysis and Funnel Charts to track customer retention flow.
 
 ## 📂 Files Included
-* `Customer_Churn_Analysis.pbix`: The source Power BI file.
-* `Dashboard_Report.pdf`: A high-quality PDF export of the final report.
+* `mre.pbix`: The source Power BI file.
+* `PowerBI.pdf`: A high-quality PDF export of the final report.
